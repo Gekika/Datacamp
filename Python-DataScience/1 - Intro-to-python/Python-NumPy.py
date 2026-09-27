@@ -34,3 +34,6 @@ bmi = np_weight / np_height **2
 # we can create 2D arrays from reular python lists of lists
 # we can get more info about 2dnparrays using attributes but they are not the same as mehtods  eg n2d.shape
  
+#  we also have  a couple of functions provided for our nparray ....we can get the mean,median etc
+# some other examples are corrcoef - to see if columns ar ecorrelated 
+# std for stabdard deviation
