@@ -14,11 +14,11 @@ print(bmi = (weight / height ** 2))
 
 # with numpy arrays this works like magic 
 
-import numpy as np
+# import numpy as np
 
-np_height = np.array(height)
-np_weight = np.array(weight)
-bmi = np_weight / np_height **2
+# np_height = np.array(height)
+# np_weight = np.array(weight)
+# bmi = np_weight / np_height **2
 
 # this is possible since np arrays can only contain items of the same type 
 # if you try to mix types they all default to strings 
